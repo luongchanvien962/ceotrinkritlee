@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+CEO Trinkrit Lee - ผู้นำประสบการณ์กว่า 10 ปีที่ Ufabets.us
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Trinkrit Lee <https://ufabets.us/ceo-trinkrit-lee-experienced-ceo-at-ufabets-us/>`_ เป็นประธานเจ้าหน้าที่บริหาร (CEO) ที่ Ufabets.us โดยมีประสบการณ์มากกว่า 10 ปีในวงการเดิมพันในประเทศไทย เขามีความเชี่ยวชาญในการจัดการและดำเนินงานเว็บไซต์เดิมพันที่มีชื่อเสียง รวมถึงบริษัทให้บริการด้านการเดิมพันรายใหญ่ต่างๆ ข้อมูลส่วนตัวของเขาประกอบด้วยชื่อ-นามสกุล ตฤณกฤษณ์ ลี, วันเดือนปีเกิด 17 พฤษภาคม 2537, ตำแหน่ง CEO ที่ Ufabets.us, เบอร์โทร +66842488881, อีเมล CEOTrinkrit_ufabets@gmail.com, และที่อยู่ 17/1 ถ.เพชรบุรีตัดใหม่ แขวงบางกะปิ กรุงเทพฯ 10310 ประเทศไทย CEO Trinkrit Lee ได้นำความรู้และความเชี่ยวชาญของเขามาพัฒนาธุรกิจ Ufabets.us ให้เติบโตและประสบความสำเร็จในตลาดการเดิมพันออนไลน์อย่างต่อเนื่อง 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+ที่อยู่: 17/1 ถ.เพชรบุรีตัดใหม่ แขวงบางกะปิ กรุงเทพฯ 10310 ประเทศไทย. 
 
-.. note::
+เบอร์โทร: +66842488881. 
 
-   This project is under active development.
+อีเมล: CEOTrinkrit_ufabets@gmail.com. 
 
-Contents
---------
+เว็บไซต์: https://ufabets.us/ceo-trinkrit-lee-experienced-ceo-at-ufabets-us/ 
 
-.. toctree::
-
-   usage
-   api
+#ceotrinkritlee #trinkritlee #trinkritlee_ufabet
